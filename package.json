@@ -17,6 +17,8 @@
     "assets": "cpy \"src/assets/*\" dist/assets/ "
   },
   "dependencies": {
+    "canvas": "^2.8.0",
+    "canvas-constructor": "^5.0.1",
     "express": "^4.17.1",
     "path": "^0.12.7",
     "typescript": "^4.4.4"
