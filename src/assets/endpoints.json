@@ -1,5 +1,6 @@
 {
     "endpoints": [
-        "GET: /_status"
+        "GET: /_status",
+        "GET: /drake?nah=TEXT&this=TEST"
    ]
 }
